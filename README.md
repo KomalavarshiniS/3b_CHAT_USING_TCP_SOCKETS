@@ -48,7 +48,7 @@ s.close()
 ```
 ## OUPUT:
 ### Clinet.py
-![alt text](<Screenshot 2025-10-28 024228-2.png>)
+![alt text](<Screenshot 2025-10-28 024228.png>)
 ### Server.py
 ![alt text](<Screenshot 2025-10-28 024235.png>)
 ## RESULT:
